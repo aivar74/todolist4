@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tegevus_valik1"
+        android:title="Todo list asjad" />
+
+    <item
+        android:id="@+id/tegevus_valik2"
+        android:title="POP up menüü" />
+
+    <!-- Lisa siia teised loenditüübid -->
+</menu>
